@@ -4,8 +4,8 @@ balon::balon(GLMmodel* modelo)
 {
 	balonOriginalX = -0.9f;
 	balonOriginalY = -0.65f;
-	balonX = 0;
-	balonY = 0;
+	balonX = -0.9f;
+	balonY = -0.65;
 	objeto = modelo;
 
 

@@ -1,3 +1,8 @@
-﻿  balon.cpp
+﻿  main.cpp
+c:\users\rogger\desktop\proyecto\proyecto\cg_demo\source\main.cpp(42): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+c:\users\rogger\desktop\proyecto\proyecto\cg_demo\source\main.cpp(153): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  balon.cpp
+c:\users\rogger\desktop\proyecto\proyecto\cg_demo\source\balon.cpp(8): warning C4305: '=': truncamiento de 'double' a 'float'
+  Generando código...
   CG_Demo.vcxproj -> C:\Users\Rogger\Desktop\Proyecto\Proyecto\Debug\CG_Demo.exe
   CG_Demo.vcxproj -> C:\Users\Rogger\Desktop\Proyecto\Proyecto\Debug\CG_Demo.pdb (Partial PDB)
